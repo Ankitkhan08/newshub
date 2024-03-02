@@ -1,3 +1,5 @@
+Newshub, a dynamic news website built with ReactJS and powered by APIs, delivers real-time updates. Seamlessly blending user-friendly design with cutting-edge technology, it provides a comprehensive and engaging platform for staying informed.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
